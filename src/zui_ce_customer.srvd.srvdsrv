@@ -1,0 +1,4 @@
+@EndUserText.label: 'customer'
+define service ZUI_CE_Customer {
+  expose Zi_CE_CUSTOMER as Customer;
+}
